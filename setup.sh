@@ -12,3 +12,5 @@ sudo cpan install Math::Round
 sudo cpan install Excel::Writer::XLSX
 sudo cpan install Data::Table
 sudo cpan install Excel::Writer::XLSX::Chart
+
+ln -s parse_nessus /bin/parse_nessus
