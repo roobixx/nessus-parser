@@ -1,4 +1,4 @@
 #!/bin/bash 
 echo -n "Provide the file path of your nessus file: "
 read file
-perl nessus-parser.pl -f $file
+perl nessus_parser.pl -f $file
